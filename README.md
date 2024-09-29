@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PratheekshaSNaik
-- 👀 I’m interested in learning new stuffs and gaining knowledge and experience 
+- 👀 I’m interested in learning new stuffs and gaining knowledge and experience
 - 🌱 I’m currently learning in AJIET,Mangalore. Doing my engineering in AI&ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
