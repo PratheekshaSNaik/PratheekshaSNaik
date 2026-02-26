@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PratheekshaSNaik
 - 👀 I’m interested in learning new stuffs and gaining knowledge and experience
-- 🌱 I’m currently learning in AJIET, Mangalore. Doing my B.E. in Computer Science and Engineering (Artificial Intelligence and Machine Learning)
+- 🌱 I’m currently learning in AJIET, Mangalore. Doing my B.E. in Computer Science and Engineering (Artificial Intelligence and Machine Learning).
