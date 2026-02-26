@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pratheeksha S Naik.
 - 👀 I’m interested in learning new stuffs and gaining knowledge and adding on to my experiences.
-- 🌱 I’m currently learning in AJIET, Mangalore. Doing my B.E. in Computer Science and Engineering (Artificial Intelligence and Machine Learning).
+- 🌱 I’m currently studying in AJIET, Mangalore. Doing my 3rd year B.E. in Computer Science and Engineering (Artificial Intelligence and Machine Learning).
